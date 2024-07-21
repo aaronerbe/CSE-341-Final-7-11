@@ -21,3 +21,6 @@ jest + supertest to create unit tests
 swagger for documenation (/api-docs)
 
 Used Render to serve.
+
+Quick walkthrough:
+https://youtu.be/OJsoLIj1vqo
